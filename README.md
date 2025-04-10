@@ -35,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="440" alt="image" src="https://github.com/user-attachments/assets/5a884749-ae47-40b4-b15e-7b60ac18af92" />
 </p>
 <p>
-The first part of our post installation configuration will be creating roles. Here we create a new role of Supreme Administrator which has access to all possible functionalties in contrast to the three default roles within os-Ticket which are: View Only, Limited Access and Expanded Access.
+The first part of our post installation configuration will be creating roles. Here we create a new role of Supreme Administrator which has access to all possible functionalties in contrast to other roles which have restrictions.
 </p>
 <br />
 
