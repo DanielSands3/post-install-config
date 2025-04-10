@@ -40,7 +40,7 @@ The first part of our post installation configuration will be creating roles. He
 <br />
 
 <p>
-<img width="437" alt="image" src="https://github.com/user-attachments/assets/da0d73a4-ec44-49fb-b5a4-a974e87b262e" />
+<img width="182" alt="image" src="https://github.com/user-attachments/assets/f943bc1f-3271-4c88-9269-55aea20538e0" />
 </p>
 <p>
 Next, we create a new Department. Departments are responisble for ticket visibility. In this example a Sysadmins department is made which can oversee all tickets. 
@@ -48,7 +48,7 @@ Next, we create a new Department. Departments are responisble for ticket visibil
 <br />
 
 <p>
-<img width="437" alt="image" src="https://github.com/user-attachments/assets/71bd72ae-6508-462f-9b49-e8477909a528" />
+<img width="443" alt="image" src="https://github.com/user-attachments/assets/affdbeb7-a4d2-4b6b-a67b-67c7771090bb" />
 </p>
 <p>
 Next, we configure a Team. A Team is used when multiple members from different departments are used in combination with eachother. For example we could have Sysadmin on the Online Banking Team in addition to the teams own designated Online Banking Members. 
